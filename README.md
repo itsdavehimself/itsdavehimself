@@ -1,6 +1,9 @@
 ### Hey, I'm David 👋
 
-Without realizing it, I stumbled into web development during the MySpace era, tweaking layouts not knowing it could actually become a job to make websites. So, the next decade of my life was spent delving into and honing various seemingly disparate skills. However, the rise of accessible technology unveiled the potential to weave these skills together. I aspire to craft truly unforgettable online experiences alongside innovative collaborators. Proficient in JavaScript and TypeScript, I am eager to broaden my skill set further with technologies such as Solidity and Three.js.
+I accidentally fell into web dev back in the myspace days, just a kid tweaking CSS to flex a cooler profile. Didn’t know it was “a real job” until way later. Fast forward: I’ve spent the last decade bouncing between creative projects, code, design, 3D, and tech rabbit holes. Turns out my journey led me to build cool web experiences.
+
+These days, I mostly write TypeScript, but I'm shifting gears into DevOps: AWS, infra as code, CI/CD, observability, the whole stack.
+Trying to go from “look what I built” to “look how it scales.”
 
 - 👨‍💻 You can view my website/portfolio [here](https://www.davidsmolen.dev)
 - 📱 You can view my 3D work on my [Instagram](https://www.instagram.com/itsdavehimself)
