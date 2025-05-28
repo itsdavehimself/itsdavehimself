@@ -1,9 +1,8 @@
 ### Hey, I'm David 👋
 
-I fell into web development during the MySpace days, just a kid tweaking CSS to show off a cooler profile. I didn’t know it could be a real job. Fast forward: I’ve spent years bouncing between code, design, 3D, and all kinds of creative rabbit holes. Now I'm channeling that experience into building reliable, thoughtful web experiences.
+I got into web development during the MySpace days, back when tweaking CSS meant having the coolest profile on your Top 8. Over the years, I’ve explored design, 3D, and all kinds of creative tech projects, which eventually pulled me deeper into building for the web.
 
-Right now, I mostly write TypeScript and I'm working toward a DevOps path: AWS, infrastructure as code, CI/CD, observability, the whole stack.
-I’m trying to go from “look what I built” to “look how it scales.”
+These days, I mostly write TypeScript and work with modern web stacks. I’m expanding my skills into DevOps: learning AWS, infrastructure as code, CI/CD, and best practices for scalable systems. Always building, always leveling up.
 
 - 👨‍💻 You can view my website/portfolio [here](https://www.davidsmolen.dev)
 - 📱 You can view my 3D work on my [Instagram](https://www.instagram.com/itsdavehimself)
